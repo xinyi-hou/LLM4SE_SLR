@@ -7,7 +7,7 @@ This repository extends from our recent work, "[Large Language Models for Softwa
 Please feel free to send a pull request to add papers and relevant content that are not listed here.  We uploaded our completed paper lists and four RQs to [Google Drive](https://docs.google.com/spreadsheets/d/1yyixATa5tVQXo-P4iS6Fs_FsAUIJ_E_YVtS4DNfgjpQ/edit?usp=sharing) with detailed reviewed information. 
 
 ## Contents
-- [Requirements engineering](#Requirements engineering)
+- [Requirements engineering](### *Requirements engineering*)
 
 ## Papers
 ### *Requirements engineering*
