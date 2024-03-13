@@ -6,6 +6,27 @@ This repository extends from our recent work, "[Large Language Models for Softwa
 
 Please feel free to send a pull request to add papers and relevant content that are not listed here.  We uploaded our completed paper lists and four RQs to [Google Drive](https://docs.google.com/spreadsheets/d/1yyixATa5tVQXo-P4iS6Fs_FsAUIJ_E_YVtS4DNfgjpQ/edit?usp=sharing) with detailed reviewed information. 
 
+## Papers
+### *Requirements engineering*
+- **A Deep Context-wise Method for Coreference Detection in Natural Language Requirements(detecting coreferent entities in natural language requirements)** (2020), RE, Wang, Yawen; Shi, Lin; Li, Mingyang; Wang, Qing; Yang, Yun.
+- **Automated Handling of Anaphoric Ambiguity in Requirements: A Multi-Solution Study** (2022), ICSE, Ezzini S,Abualhaija S,Arora C,Sabetzadeh M.
+- **ChatGPT as a tool for User Story Quality Evaluation: Trustworthy Out of the Box?** (2023), arXiv, Ronanki, Krishna and Cabrero-Daniel, Beatriz and Berger, Christian.
+- **chatgpt prompt patterns for improving code quality, refactoring, requirements elicitation, and software design** (2023), arXiv, White, Jules; Hays, Sam; Fu, Quchen; Spencer-Smith, Jesse; Schmidt, Douglas C..
+- **ChatGPT: A Study on its Utility for Ubiquitous Software Engineering Tasks** (2023), arXiv, Sridhara, Giriprasad; G., Ranjani H.; Mazumdar, Sourav.
+- **Experimenting a New Programming Practice with LLMs** (2024), arXiv, Zhang, Simiao; Wang, Jiaping; Dong, Guoliang; Sun, Jun; Zhang, Yueling; Pu, Geguang.
+- **Few-shot learning for sentence pair classification and its applications in software engineering** (2023), arXiv, Helmeczi, Robert Kraig; Cevik, Mucahit; Yıldırım, Savas.
+- **Formalizing Natural Language Intent into Program Specifications via Large Language Models** (2023), arXiv, Endres, Madeline; Fakhoury, Sarah; Chakraborty, Saikat; Lahiri, Shuvendu K..
+- **Identification of intra-domain ambiguity using transformer-based machine learning** (2022), ICSE, Moharil, Ambarish; Sharma, Arpit.
+- **Impact of Large Language Models on Generating Software Specifications** (2023), arXiv, Xie, Danning; Yoo, Byungwoo; Jiang, Nan; Kim, Mijung; Tan, Lin; Zhang, Xiangyu; Lee, Judy S..
+- **Leveraging Transformer-based Language Models to Automate Requirements Satisfaction Assessment** (2023), arXiv, Poudel, Amrit; Lin, Jinfeng; Cleland-Huang, Jane.
+- **NoRBERT: Transfer Learning for Requirements Classification** (2020), RE, Hey, Tobias; Keim, Jan; Koziolek, Anne; Tichy, Walter F..
+- **PRCBERT: Prompt Learning for Requirement Classification using BERT-based Pretrained Language Models** (2022), ASE, Luo, Xianchang; Xue, Yinxing; Xing, Zhenchang; Sun, Jiamou.
+- **SpecGen: Automated Generation of Formal Program Specifications via Large Language Models** (2024), arXiv, Ma, Lezhi; Liu, Shangqing; Li, Yi; Xie, Xiaofei; Bu, Lei.
+- **TABASCO: A transformer based contextualization toolkit** (2023), SCP, Moharil, Ambarish; Sharma, Arpit.
+- **Traceability transformed: Generating more accurate links with pre-trained bert models** (2021), ICSE, Lin, Jinfeng; Liu, Yalin; Zeng, Qingkai; Jiang, Meng; Cleland-Huang, Jane.
+- **Which AI Technique Is Better to Classify Requirements? An Experiment with SVM, LSTM, and ChatGPT** (2023), arXiv, El-Hajjami, Abdelkarim; Fafin, Nicolas; Salinesi, Camille.
+
+
 ## Cites
 If you find this repository useful, please cite our survey paper:
 ```
