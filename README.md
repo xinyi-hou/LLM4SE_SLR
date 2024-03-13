@@ -8,21 +8,26 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Contents
 - [Requirements engineering](#Requirements-engineering)
+- [Software design](#Software-design)
+- [Software development](#Software-development)
+- [Software quality assurance](#Software-quality-assurance)
+- [Software maintenance](#Software-maintenance)
+- [Software management](#Software-management)
 
 ## Papers
 ### *Requirements engineering*
 - **A Deep Context-wise Method for Coreference Detection in Natural Language Requirements(detecting coreferent entities in natural language requirements)** (2020), RE, Wang, Yawen; Shi, Lin; Li, Mingyang; Wang, Qing; Yang, Yun.
 - **Automated Handling of Anaphoric Ambiguity in Requirements: A Multi-Solution Study** (2022), ICSE, Ezzini S,Abualhaija S,Arora C,Sabetzadeh M.
 - **ChatGPT as a tool for User Story Quality Evaluation: Trustworthy Out of the Box?** (2023), arXiv, Ronanki, Krishna and Cabrero-Daniel, Beatriz and Berger, Christian.
-- **chatgpt prompt patterns for improving code quality, refactoring, requirements elicitation, and software design** (2023), arXiv, White, Jules; Hays, Sam; Fu, Quchen; Spencer-Smith, Jesse; Schmidt, Douglas C..
+- **chatgpt prompt patterns for improving code quality, refactoring, requirements elicitation, and software design** (2023), arXiv, White, Jules; Hays, Sam; Fu, Quchen; Spencer-Smith, Jesse; Schmidt, Douglas C.
 - **ChatGPT: A Study on its Utility for Ubiquitous Software Engineering Tasks** (2023), arXiv, Sridhara, Giriprasad; G., Ranjani H.; Mazumdar, Sourav.
 - **Experimenting a New Programming Practice with LLMs** (2024), arXiv, Zhang, Simiao; Wang, Jiaping; Dong, Guoliang; Sun, Jun; Zhang, Yueling; Pu, Geguang.
 - **Few-shot learning for sentence pair classification and its applications in software engineering** (2023), arXiv, Helmeczi, Robert Kraig; Cevik, Mucahit; Yıldırım, Savas.
-- **Formalizing Natural Language Intent into Program Specifications via Large Language Models** (2023), arXiv, Endres, Madeline; Fakhoury, Sarah; Chakraborty, Saikat; Lahiri, Shuvendu K..
+- **Formalizing Natural Language Intent into Program Specifications via Large Language Models** (2023), arXiv, Endres, Madeline; Fakhoury, Sarah; Chakraborty, Saikat; Lahiri, Shuvendu K.
 - **Identification of intra-domain ambiguity using transformer-based machine learning** (2022), ICSE, Moharil, Ambarish; Sharma, Arpit.
-- **Impact of Large Language Models on Generating Software Specifications** (2023), arXiv, Xie, Danning; Yoo, Byungwoo; Jiang, Nan; Kim, Mijung; Tan, Lin; Zhang, Xiangyu; Lee, Judy S..
+- **Impact of Large Language Models on Generating Software Specifications** (2023), arXiv, Xie, Danning; Yoo, Byungwoo; Jiang, Nan; Kim, Mijung; Tan, Lin; Zhang, Xiangyu; Lee, Judy S.
 - **Leveraging Transformer-based Language Models to Automate Requirements Satisfaction Assessment** (2023), arXiv, Poudel, Amrit; Lin, Jinfeng; Cleland-Huang, Jane.
-- **NoRBERT: Transfer Learning for Requirements Classification** (2020), RE, Hey, Tobias; Keim, Jan; Koziolek, Anne; Tichy, Walter F..
+- **NoRBERT: Transfer Learning for Requirements Classification** (2020), RE, Hey, Tobias; Keim, Jan; Koziolek, Anne; Tichy, Walter F.
 - **PRCBERT: Prompt Learning for Requirement Classification using BERT-based Pretrained Language Models** (2022), ASE, Luo, Xianchang; Xue, Yinxing; Xing, Zhenchang; Sun, Jiamou.
 - **SpecGen: Automated Generation of Formal Program Specifications via Large Language Models** (2024), arXiv, Ma, Lezhi; Liu, Shangqing; Li, Yi; Xie, Xiaofei; Bu, Lei.
 - **TABASCO: A transformer based contextualization toolkit** (2023), SCP, Moharil, Ambarish; Sharma, Arpit.
@@ -30,7 +35,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Which AI Technique Is Better to Classify Requirements? An Experiment with SVM, LSTM, and ChatGPT** (2023), arXiv, El-Hajjami, Abdelkarim; Fafin, Nicolas; Salinesi, Camille.
 
 ### *Software design*
-- **chatgpt prompt patterns for improving code quality, refactoring, requirements elicitation, and software design** (2023), arXiv, White, Jules; Hays, Sam; Fu, Quchen; Spencer-Smith, Jesse; Schmidt, Douglas C..
+- **chatgpt prompt patterns for improving code quality, refactoring, requirements elicitation, and software design** (2023), arXiv, White, Jules; Hays, Sam; Fu, Quchen; Spencer-Smith, Jesse; Schmidt, Douglas C.
 - **Data-driven prototyping via natural-language-based gui retrieval** (2023), ASE_J, Kolthoff, Kristian; Bartelt, Christian; Ponzetto, Simone Paolo.
 - **Experimenting a New Programming Practice with LLMs** (2024), arXiv, Zhang, Simiao; Wang, Jiaping; Dong, Guoliang; Sun, Jun; Zhang, Yueling; Pu, Geguang.
 - **Large Language Models Based Automatic Synthesis of Software Specifications** (2023), arXiv, Mandal, Shantanu; Chethan, Adhrik; Janfaza, Vahid; Mahmud, S. M. Farabi; Anderson, Todd A.; Turek, Javier; Tithi, Jesmin Jahan; Muzahid, Abdullah.
@@ -59,7 +64,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation** (2023), arXiv, Yang, Chengran; Liu, Jiakun; Xu, Bowen; Treude, Christoph; Lyu, Yunbo; He, Junda; Li, Ming; Lo, David.
 - **APIGen: Generative API Method Recommendation** (2024), SANER, Chen, Yujia; Gao, Cuiyun; Zhu, Muyijie; Liao, Qing; Wang, Yong; Xu, Guoai.
 - **ART: Automatic multi-step reasoning and tool-use for large language models** (2023), arXiv, Paranjape, Bhargavi; Lundberg, Scott; Singh, Sameer; Hajishirzi, Hannaneh; Zettlemoyer, Luke; Ribeiro, Marco Tulio.
-- **Assemble foundation models for automatic code summarization** (2022), SANER, Gu, Jian; Salza, Pasquale; Gall, Harald C..
+- **Assemble foundation models for automatic code summarization** (2022), SANER, Gu, Jian; Salza, Pasquale; Gall, Harald C.
 - **Assessing and Improving Syntactic Adversarial Robustness of Pre-trained Models for Code Translation** (2023), arXiv, Yang, Guang; Zhou, Yu; Zhang, Xiangyu; Chen, Xiang; Han, Tingting; Chen, Taolue.
 - **Assessing the Promise and Pitfalls of ChatGPT for Automated Code Generation** (2023), arXiv, Khan, Muhammad Fawad Akbar; Ramsdell, Max; Falor, Erik; Karimi, Hamid.
 - **Attention, Compilation, and Solver-based Symbolic Analysis are All You Need** (2023), arXiv, Jana, Prithwish; Jha, Piyush; Ju, Haoyang; Kishore, Gautham; Mahajan, Aryan; Ganesh, Vijay.
@@ -68,13 +73,13 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Automatic Detection of Five API Documentation Smells: Practitioners’ Perspectives** (2021), SANER, Khan, Junaed Younus; Tawkat Islam Khondaker, Md.; Uddin, Gias; Iqbal, Anindya.
 - **Automatic Model Selection with Large Language Models for Reasoning** (2023), arXiv, Zhao, Xu; Xie, Yuxi; Kawaguchi, Kenji; He, Junxian; Xie, Qizhe.
 - **Automatic recognizing relevant fragments of APIs using API references** (2024), ASE_J, Wu, Di; Feng, Yang; Zhang, Hongyu; Xu, Baowen.
-- **Automatic Semantic Augmentation of Language Model Prompts (for Code Summarization)** (2024), ICSE, Ahmed, Toufique; Pai, Kunal Suresh; Devanbu, Premkumar; Barr, Earl T..
+- **Automatic Semantic Augmentation of Language Model Prompts (for Code Summarization)** (2024), ICSE, Ahmed, Toufique; Pai, Kunal Suresh; Devanbu, Premkumar; Barr, Earl T.
 - **Automating Method Naming with Context-Aware Prompt-Tuning** (2023), ICPC, Zhu, Jie; Li, Lingwei; Yang, Li; Ma, Xiaoxiao; Zuo, Chun.
 - **Benchmarking and Explaining Large Language Model-based Code Generation: A Causality-Centric Approach** (2023), arXiv, Ji, Zhenlan; Ma, Pingchuan; Li, Zongjie; Wang, Shuai.
 - **Benchmarking Language Models for Code Syntax Understanding** (2022), EMNLP, Shen, Da; Chen, Xinyun; Wang, Chenguang; Sen, Koushik; Song, Dawn.
 - **BEQAIN: An Effective and Efficient Identifier Normalization Approach with BERT and the Question Answering System** (2022), TSE, Zhang J,Liu S,Gong L,Zhang H,Huang Z,Jiang H.
 - **Binary Code Summarization: Benchmarking ChatGPT/GPT-4 and Other Large Language Models** (2023), arXiv, Jin, Xin; Larson, Jonathan; Yang, Weiwei; Lin, Zhiqiang.
-- **BLOOM: A 176B-Parameter Open-Access Multilingual Language Model** (2022), arXiv, Workshop, BigScience; Scao, Teven Le; Fan, Angela; Akiki, Christopher; Pavlick, Ellie; Ilić, Suzana; Hesslow, Daniel; Castagné, Roman; Luccioni, Alexandra Sasha; Yvon, François; Gallé, Matthias; Tow, Jonathan; Rush, Alexander M.; Biderman, Stella; Webson, Albert; Ammanamanchi, Pawan Sasanka; Wang, Thomas; Sagot, Benoît; Muennighoff, Niklas; del Moral, Albert Villanova; Ruwase, Olatunji; Bawden, Rachel; Bekman, Stas; McMillan-Major, Angelina; Beltagy, Iz; Nguyen, Huu; Saulnier, Lucile; Tan, Samson; Suarez, Pedro Ortiz; Sanh, Victor; Laurençon, Hugo; Jernite, Yacine; Launay, Julien; Mitchell, Margaret; Raffel, Colin; Gokaslan, Aaron; Simhi, Adi; Soroa, Aitor; Aji, Alham Fikri; Alfassy, Amit; Rogers, Anna; Nitzav, Ariel Kreisberg; Xu, Canwen; Mou, Chenghao; Emezue, Chris; Klamm, Christopher; Leong, Colin; van Strien, Daniel; Adelani, David Ifeoluwa; Radev, Dragomir; Ponferrada, Eduardo González; Levkovizh, Efrat; Kim, Ethan; Natan, Eyal Bar; De Toni, Francesco; Dupont, Gérard; Kruszewski, Germán; Pistilli, Giada; Elsahar, Hady; Benyamina, Hamza; Tran, Hieu; Yu, Ian; Abdulmumin, Idris; Johnson, Isaac; Gonzalez-Dios, Itziar; de la Rosa, Javier; Chim, Jenny; Dodge, Jesse; Zhu, Jian; Chang, Jonathan; Frohberg, Jörg; Tobing, Joseph; Bhattacharjee, Joydeep; Almubarak, Khalid; Chen, Kimbo; Lo, Kyle; Von Werra, Leandro; Weber, Leon; Phan, Long; allal, Loubna Ben; Tanguy, Ludovic; Dey, Manan; Muñoz, Manuel Romero; Masoud, Maraim; Grandury, María; Šaško, Mario; Huang, Max; Coavoux, Maximin; Singh, Mayank; Jiang, Mike Tian-Jian; Vu, Minh Chien; Jauhar, Mohammad A.; Ghaleb, Mustafa; Subramani, Nishant; Kassner, Nora; Khamis, Nurulaqilla; Nguyen, Olivier; Espejel, Omar; de Gibert, Ona; Villegas, Paulo; Henderson, Peter; Colombo, Pierre; Amuok, Priscilla; Lhoest, Quentin; Harliman, Rheza; Bommasani, Rishi; López, Roberto Luis; Ribeiro, Rui; Osei, Salomey; Pyysalo, Sampo; Nagel, Sebastian; Bose, Shamik; Muhammad, Shamsuddeen Hassan; Sharma, Shanya; Longpre, Shayne; Nikpoor, Somaieh; Silberberg, Stanislav; Pai, Suhas; Zink, Sydney; Torrent, Tiago Timponi; Schick, Timo; Thrush, Tristan; Danchev, Valentin; Nikoulina, Vassilina; Laippala, Veronika; Lepercq, Violette; Prabhu, Vrinda; Alyafeai, Zaid; Talat, Zeerak; Raja, Arun; Heinzerling, Benjamin; Si, Chenglei; Taşar, Davut Emre; Salesky, Elizabeth; Mielke, Sabrina J.; Lee, Wilson Y.; Sharma, Abheesht; Santilli, Andrea; Chaffin, Antoine; Stiegler, Arnaud; Datta, Debajyoti; Szczechla, Eliza; Chhablani, Gunjan; Wang, Han; Pandey, Harshit; Strobelt, Hendrik; Fries, Jason Alan; Rozen, Jos; Gao, Leo; Sutawika, Lintang; Bari, M. Saiful; Al-shaibani, Maged S.; Manica, Matteo; Nayak, Nihal; Teehan, Ryan; Albanie, Samuel; Shen, Sheng; Ben-David, Srulik; Bach, Stephen H.; Kim, Taewoon; Bers, Tali; Fevry, Thibault; Neeraj, Trishala; Thakker, Urmish; Raunak, Vikas; Tang, Xiangru; Yong, Zheng-Xin; Sun, Zhiqing; Brody, Shaked; Uri, Yallow; Tojarieh, Hadar; Roberts, Adam; Chung, Hyung Won; Tae, Jaesung; Phang, Jason; Press, Ofir; Li, Conglong; Narayanan, Deepak; Bourfoune, Hatim; Casper, Jared; Rasley, Jeff; Ryabinin, Max; Mishra, Mayank; Zhang, Minjia; Shoeybi, Mohammad; Peyrounette, Myriam; Patry, Nicolas; Tazi, Nouamane; Sanseviero, Omar; von Platen, Patrick; Cornette, Pierre; Lavallée, Pierre François; Lacroix, Rémi; Rajbhandari, Samyam; Gandhi, Sanchit; Smith, Shaden; Requena, Stéphane; Patil, Suraj; Dettmers, Tim; Baruwa, Ahmed; Singh, Amanpreet; Cheveleva, Anastasia; Ligozat, Anne-Laure; Subramonian, Arjun; Névéol, Aurélie; Lovering, Charles; Garrette, Dan; Tunuguntla, Deepak; Reiter, Ehud; Taktasheva, Ekaterina; Voloshina, Ekaterina; Bogdanov, Eli; Winata, Genta Indra; Schoelkopf, Hailey; Kalo, Jan-Christoph; Novikova, Jekaterina; Forde, Jessica Zosa; Clive, Jordan; Kasai, Jungo; Kawamura, Ken; Hazan, Liam; Carpuat, Marine; Clinciu, Miruna; Kim, Najoung; Cheng, Newton; Serikov, Oleg; Antverg, Omer; van der Wal, Oskar; Zhang, Rui; Zhang, Ruochen; Gehrmann, Sebastian; Mirkin, Shachar; Pais, Shani; Shavrina, Tatiana; Scialom, Thomas; Yun, Tian; Limisiewicz, Tomasz; Rieser, Verena; Protasov, Vitaly; Mikhailov, Vladislav; Pruksachatkun, Yada; Belinkov, Yonatan; Bamberger, Zachary; Kasner, Zdeněk; Rueda, Alice; Pestana, Amanda; Feizpour, Amir; Khan, Ammar; Faranak, Amy; Santos, Ana; Hevia, Anthony; Unldreaj, Antigona; Aghagol, Arash; Abdollahi, Arezoo; Tammour, Aycha; HajiHosseini, Azadeh; Behroozi, Bahareh; Ajibade, Benjamin; Saxena, Bharat; Ferrandis, Carlos Muñoz; McDuff, Daniel; Contractor, Danish; Lansky, David; David, Davis; Kiela, Douwe; Nguyen, Duong A.; Tan, Edward; Baylor, Emi; Ozoani, Ezinwanne; Mirza, Fatima; Ononiwu, Frankline; Rezanejad, Habib; Jones, Hessie; Bhattacharya, Indrani; Solaiman, Irene; Sedenko, Irina; Nejadgholi, Isar; Passmore, Jesse; Seltzer, Josh; Sanz, Julio Bonis; Dutra, Livia; Samagaio, Mairon; Elbadri, Maraim; Mieskes, Margot; Gerchick, Marissa; Akinlolu, Martha; McKenna, Michael; Qiu, Mike; Ghauri, Muhammed; Burynok, Mykola; Abrar, Nafis; Rajani, Nazneen; Elkott, Nour; Fahmy, Nour; Samuel, Olanrewaju; An, Ran; Kromann, Rasmus; Hao, Ryan; Alizadeh, Samira; Shubber, Sarmad; Wang, Silas; Roy, Sourav; Viguier, Sylvain; Le, Thanh; Oyebade, Tobi; Le, Trieu; Yang, Yoyo; Nguyen, Zach; Kashyap, Abhinav Ramesh; Palasciano, Alfredo; Callahan, Alison; Shukla, Anima; Miranda-Escalada, Antonio; Singh, Ayush; Beilharz, Benjamin; Wang, Bo; Brito, Caio; Zhou, Chenxi; Jain, Chirag; Xu, Chuxin; Fourrier, Clémentine; Periñán, Daniel León; Molano, Daniel; Yu, Dian; Manjavacas, Enrique; Barth, Fabio; Fuhrimann, Florian; Altay, Gabriel; Bayrak, Giyaseddin; Burns, Gully; Vrabec, Helena U.; Bello, Imane; Dash, Ishani; Kang, Jihyun; Giorgi, John; Golde, Jonas; Posada, Jose David; Sivaraman, Karthik Rangasai; Bulchandani, Lokesh; Liu, Lu; Shinzato, Luisa; de Bykhovetz, Madeleine Hahn; Takeuchi, Maiko; Pàmies, Marc; Castillo, Maria A.; Nezhurina, Marianna; Sänger, Mario; Samwald, Matthias; Cullan, Michael; Weinberg, Michael; De Wolf, Michiel; Mihaljcic, Mina; Liu, Minna; Freidank, Moritz; Kang, Myungsun; Seelam, Natasha; Dahlberg, Nathan; Broad, Nicholas Michio; Muellner, Nikolaus; Fung, Pascale; Haller, Patrick; Chandrasekhar, Ramya; Eisenberg, Renata; Martin, Robert; Canalli, Rodrigo; Su, Rosaline; Su, Ruisi; Cahyawijaya, Samuel; Garda, Samuele; Deshmukh, Shlok S.; Mishra, Shubhanshu; Kiblawi, Sid; Ott, Simon; Sang-aroonsiri, Sinee; Kumar, Srishti; Schweter, Stefan; Bharati, Sushil; Laud, Tanmay; Gigant, Théo; Kainuma, Tomoya; Kusa, Wojciech; Labrak, Yanis; Bajaj, Yash Shailesh; Venkatraman, Yash; Xu, Yifan; Xu, Yingxin; Xu, Yu; Tan, Zhe; Xie, Zhongli; Ye, Zifan; Bras, Mathilde; Belkada, Younes; Wolf, Thomas.
+- **BLOOM: A 176B-Parameter Open-Access Multilingual Language Model** (2022), arXiv, Workshop, BigScience; Scao, Teven Le; Fan, Angela; Akiki, Christopher; Pavlick, Ellie; et al.
 - **Can ChatGPT replace StackOverflow? A Study on Robustness and Reliability of Large Language Model Code Generation** (2023), arXiv, Zhong, Li; Wang, Zilong.
 - **Can Large Language Models Write Parallel Code?** (2024), arXiv, Nichols, Daniel; Davis, Joshua H.; Xie, Zhaojun; Rajaram, Arjun; Bhatele, Abhinav.
 - **Capturing failures of large language models via human cognitive biases** (2022), NeurIPS, Jones, Erik; Steinhardt, Jacob.
@@ -101,17 +106,17 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **CodeGen2: Lessons for Training LLMs on Programming and Natural Languages** (2023), arXiv, Nijkamp, Erik; Hayashi, Hiroaki; Xiong, Caiming; Savarese, Silvio; Zhou, Yingbo.
 - **CodeIE: Large Code Generation Models are Better Few-Shot Information Extractors** (2023), ACL, Li, Peng; Sun, Tianxiang; Tang, Qiong; Yan, Hang; Wu, Yuanbin; Huang, Xuanjing; Qiu, Xipeng.
 - **CodePlan: Repository-level Coding using LLMs and Planning** (2023), arXiv, Bairi, Ramakrishna; Sonwane, Atharv; Kanade, Aditya; C, Vageesh D.; Iyer, Arun; Parthasarathy, Suresh; Rajamani, Sriram; Ashok, B.; Shet, Shashank.
-- **Coder reviewer reranking for code generation** (2023), ICML, Zhang, Tianyi; Yu, Tao; Hashimoto, Tatsunori B.; Lewis, Mike; Yih, Wen-tau; Fried, Daniel; Wang, Sida I..
+- **Coder reviewer reranking for code generation** (2023), ICML, Zhang, Tianyi; Yu, Tao; Hashimoto, Tatsunori B.; Lewis, Mike; Yih, Wen-tau; Fried, Daniel; Wang, Sida I.
 - **CoderEval: A Benchmark of Pragmatic Code Generation with Generative Pre-trained Models** (2023), arXiv, Yu, Hao; Shen, Bo; Ran, Dezhi; Zhang, Jiaxin; Zhang, Qi; Ma, Yuchi; Liang, Guangtai; Li, Ying; Xie, Tao; Wang, Qianxiang.
 - **CodeScore: Evaluating Code Generation by Learning Code Execution** (2023), arXiv, Dong, Yihong; Ding, Jiazheng; Jiang, Xue; Li, Ge; Li, Zhuo; Jin, Zhi.
-- **Codet5+: Open code large language models for code understanding and generation** (2023), arXiv, Wang, Yue; Le, Hung; Gotmare, Akhilesh Deepak; Bui, Nghi D. Q.; Li, Junnan; Hoi, Steven C. H..
-- **CodeTF: One-stop Transformer Library for State-of-the-art Code LLM** (2023), arXiv, Bui, Nghi D. Q.; Le, Hung; Wang, Yue; Li, Junnan; Gotmare, Akhilesh Deepak; Hoi, Steven C. H..
+- **Codet5+: Open code large language models for code understanding and generation** (2023), arXiv, Wang, Yue; Le, Hung; Gotmare, Akhilesh Deepak; Bui, Nghi D. Q.; Li, Junnan; Hoi, Steven C. H.
+- **CodeTF: One-stop Transformer Library for State-of-the-art Code LLM** (2023), arXiv, Bui, Nghi D. Q.; Le, Hung; Wang, Yue; Li, Junnan; Gotmare, Akhilesh Deepak; Hoi, Steven C. H.
 - **CodeTransOcean: A Comprehensive Multilingual Benchmark for Code Translation** (2023), EMNLP, Yan, Weixiang; Tian, Yuchen; Li, Yunzhe; Chen, Qian; Wang, Wen.
 - **Coffee: Boost Your Code LLMs by Fixing Bugs with Feedback** (2023), arXiv, Moon, Seungjun; Song, Yongho; Chae, Hyungjoo; Kang, Dongjin; Kwon, Taeyoon; Ong, Kai Tzu-iunn; Hwang, Seung-won; Yeo, Jinyoung.
 - **CoLadder: Supporting Programmers with Hierarchical Code Generation in Multi-Level Abstraction** (2023), arXiv, Yen, Ryan; Zhu, Jiawen; Suh, Sangho; Xia, Haijun; Zhao, Jian.
 - **Communicative Agents for Software Development** (2023), arXiv, Chen Qian, Xin Cong, Cheng Yang, Weize Chen, Yusheng Su, Juyuan Xu, Zhiyuan Liu, Maosong Sun.
 - **Comparing Software Developers with ChatGPT: An Empirical Investigation** (2023), arXiv, Nascimento, Nathalia; Alencar, Paulo; Cowan, Donald.
-- **Constructing Effective In-Context Demonstration for Code Intelligence Tasks: An Empirical Stud** (2023), arXiv, Gao, Shuzheng; Wen, Xin-Cheng; Gao, Cuiyun; Wang, Wenxuan; Lyu, Michael R..
+- **Constructing Effective In-Context Demonstration for Code Intelligence Tasks: An Empirical Stud** (2023), arXiv, Gao, Shuzheng; Wen, Xin-Cheng; Gao, Cuiyun; Wang, Wenxuan; Lyu, Michael R.
 - **ContraBERT: Enhancing Code Pre-Trained Models via Contrastive Learning** (2023), ICSE, Liu, Shangqing; Wu, Bozhi; Xie, Xiaofei; Meng, Guozhu; Liu, Yang.
 - **Copilot for Xcode: Exploring AI-Assisted Programming by Prompting Cloud-based Large Language Models** (2023), arXiv, Tan, Chee Wei; Guo, Shangxin; Wong, Man Fai; Hang, Ching Nam.
 - **Cross-Modal Contrastive Learning for Code Search** (2022), ICSME, Shi, Zejian; Xiong, Yun; Zhang, Xiaolong; Zhang, Yao; Li, Shanshan; Zhu, Yangyong.
@@ -131,7 +136,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Evaluating and improving transformers pre-trained on asts for code completion** (2023), SANER, Ochs, Marcel; Narasimhan, Krishna; Mezini, Mira.
 - **Evaluating ChatGPT and GPT-4 for Visual Programming** (2023), arXiv, Adish Singla.
 - **Evaluating In-Context Learning of Libraries for Code Generation** (2023), arXiv, Patel, Arkil; Reddy, Siva; Bahdanau, Dzmitry; Dasigi, Pradeep.
-- **evaluating large language models trained on code** (2021), arXiv, Chen, Mark; Tworek, Jerry; Jun, Heewoo; Yuan, Qiming; Pinto, Henrique Ponde de Oliveira; Kaplan, Jared; Edwards, Harri; Burda, Yuri; Joseph, Nicholas; Brockman, Greg; Ray, Alex; Puri, Raul; Krueger, Gretchen; Petrov, Michael; Khlaaf, Heidy; Sastry, Girish; Mishkin, Pamela; Chan, Brooke; Gray, Scott; Ryder, Nick; Pavlov, Mikhail; Power, Alethea; Kaiser, Lukasz; Bavarian, Mohammad; Winter, Clemens; Tillet, Philippe; Such, Felipe Petroski; Cummings, Dave; Plappert, Matthias; Chantzis, Fotios; Barnes, Elizabeth; Herbert-Voss, Ariel; Guss, William Hebgen; Nichol, Alex; Paino, Alex; Tezak, Nikolas; Tang, Jie; Babuschkin, Igor; Balaji, Suchir; Jain, Shantanu; Saunders, William; Hesse, Christopher; Carr, Andrew N.; Leike, Jan; Achiam, Josh; Misra, Vedant; Morikawa, Evan; Radford, Alec; Knight, Matthew; Brundage, Miles; Murati, Mira; Mayer, Katie; Welinder, Peter; McGrew, Bob; Amodei, Dario; McCandlish, Sam; Sutskever, Ilya; Zaremba, Wojciech.
+- **evaluating large language models trained on code** (2021), arXiv, Chen, Mark; Tworek, Jerry; Jun, Heewoo; Yuan, Qiming; Pinto, Henrique Ponde de Oliveira; et al.
 - **Evaluating the Code Quality of AI-Assisted Code Generation Tools: An Empirical Study on GitHub Copilot, Amazon CodeWhisperer, and ChatGPT** (2023), arXiv, Yetiştiren, Burak; Özsoy, Işık; Ayerdem, Miray; Tüzün, Eray.
 - **Examining zero-shot vulnerability repair with large language models** (2021), S&P, Pearce, Hammond; Tan, Benjamin; Ahmad, Baleegh; Karri, Ramesh; Dolan-Gavitt, Brendan.
 - **Experimenting a New Programming Practice with LLMs** (2024), arXiv, Zhang, Simiao; Wang, Jiaping; Dong, Guoliang; Sun, Jun; Zhang, Yueling; Pu, Geguang.
@@ -141,12 +146,12 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Extending Source Code Pre-Trained Language Models to Summarise Decompiled Binarie** (2023), SANER, Al-Kaswan, Ali; Ahmed, Toufique; Izadi, Maliheh; Sawant, Anand Ashok; Devanbu, Premkumar; van Deursen, Arie.
 - **Extending the Frontier of ChatGPT: Code Generation and Debugging** (2023), arXiv, Sakib, Fardin Ahsan; Khan, Saadat Hasan; Karim, A. H. M. Rezaul.
 - **FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU** (2023), arXiv, Sheng, Ying; Zheng, Lianmin; Yuan, Binhang; Li, Zhuohan; Ryabinin, Max; Fu, Daniel Y.; Xie, Zhiqiang; Chen, Beidi; Barrett, Clark; Gonzalez, Joseph E.; Liang, Percy; Ré, Christopher; Stoica, Ion; Zhang, Ce.
-- **from copilot to pilot: towards ai supported software development** (2023), arXiv, Pudari, Rohith; Ernst, Neil A..
+- **from copilot to pilot: towards ai supported software development** (2023), arXiv, Pudari, Rohith; Ernst, Neil A.
 - **From Misuse to Mastery: Enhancing Code Generation with Knowledge-Driven AI Chaining** (2023), ASE, Ren, Xiaoxue; Ye, Xinyuan; Zhao, Dehai; Xing, Zhenchang; Yang, Xiaohu.
 - **Function-constrained Program Synthesis** (2023), NeurIPS, Hajali, Patrick; Budvytis, Ignas.
 - **generating data for symbolic language with large language models** (2023), arXiv, Ye, Jiacheng; Li, Chengzu; Kong, Lingpeng; Yu, Tao.
 - **generation-augmented query expansion for code retrieval** (2022), arXiv, Li, Dong; Shen, Yelong; Jin, Ruoming; Mao, Yi; Wang, Kuan; Chen, Weizhu.
-- **gorilla: large language model connected with massive apis** (2023), arXiv, Patil, Shishir G.; Zhang, Tianjun; Wang, Xin; Gonzalez, Joseph E..
+- **gorilla: large language model connected with massive apis** (2023), arXiv, Patil, Shishir G.; Zhang, Tianjun; Wang, Xin; Gonzalez, Joseph E.
 - **GPT2SP: A Transformer-Based Agile Story Point Estimation Approach** (2022), TSE, Fu M,Tantithamthavorn C.
 - **Grace: Language Models Meet Code Edits** (2023), ESEC/FSE, Gupta, Priyanshu; Khare, Avishree; Bajpai, Yasharth; Chakraborty, Saikat; Gulwani, Sumit; Kanade, Aditya; Radhakrishna, Arjun; Soares, Gustavo; Tiwari, Ashish.
 - **How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition** (2023), arXiv, Dong, Guanting; Yuan, Hongyi; Lu, Keming; Li, Chengpeng; Xue, Mingfeng; Liu, Dayiheng; Wang, Wei; Yuan, Zheng; Zhou, Chang; Zhou, Jingren.
@@ -157,7 +162,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **In-IDE Generation-based Information Support with a Large Language Model** (2023), ICSE, Nam, Daye; Macvean, Andrew; Hellendoorn, Vincent; Vasilescu, Bogdan; Myers, Brad.
 - **Interactive Code Generation via Test-Driven User-Intent Formalization** (2022), arXiv, Lahiri, Shuvendu K.; Fakhoury, Sarah; Naik, Aaditya; Sakkas, Georgios; Chakraborty, Saikat; Musuvathi, Madanlal; Choudhury, Piali; von Veh, Curtis; Inala, Jeevana Priya; Wang, Chenglong; Gao, Jianfeng.
 - **Is AI the better programming partner? Human-Human Pair Programming vs. Human-AI pAIr Programming** (2023), arXiv, Wu, Tongshuang and Koedinger, Kenneth and others.
-- **Is ChatGPT the Ultimate Programming Assistant -- How far is it?** (2023), arXiv, Tian, Haoye; Lu, Weiqi; Li, Tsz On; Tang, Xunzhu; Cheung, Shing-Chi; Klein, Jacques; Bissyandé, Tegawendé F..
+- **Is ChatGPT the Ultimate Programming Assistant -- How far is it?** (2023), arXiv, Tian, Haoye; Lu, Weiqi; Li, Tsz On; Tang, Xunzhu; Cheung, Shing-Chi; Klein, Jacques; Bissyandé, Tegawendé F.
 - **Is GPT-4 a Good Data Analyst?** (2023), arXiv, Cheng, Liying; Li, Xingxuan; Bing, Lidong.
 - **Is Model Attention Aligned with Human Attention? An Empirical Study on Large Language Models for Code Generation** (2023), arXiv, Kou, Bonan; Chen, Shengmai; Wang, Zhijie; Ma, Lei; Zhang, Tianyi.
 - **Is this Snippet Written by ChatGPT? An Empirical Study with a CodeBERT-Based Classifier** (2023), arXiv, Nguyen, Phuong T.; Di Rocco, Juri; Di Sipio, Claudio; Rubei, Riccardo; Di Ruscio, Davide; Di Penta, Massimiliano.
@@ -171,7 +176,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Large Language Models Are State-of-the-Art Evaluators of Code Generation（ICE-Score: Instructing Large Language Models to Evaluate Code）** (2023), arXiv, Zhuo, Terry Yue.
 - **Large Language Models of Code Fail at Completing Code with Potential Bugs** (2024), NeurIPS, Dinh, Tuan; Zhao, Jinman; Tan, Samson; Negrinho, Renato; Lausen, Leonard; Zha, Sheng; Karypis, George.
 - **Learning and evaluating contextual embedding of source code** (2020), ICML, Kanade, Aditya; Maniatis, Petros; Balakrishnan, Gogul; Shi, Kensen.
-- **Learning in the Wild: Towards Leveraging Unlabeled Data for Effectively Tuning Pre-trained Code Models** (2024), ICSE, Gao, Shuzheng; Mao, Wenxin; Gao, Cuiyun; Li, Li; Hu, Xing; Xia, Xin; Lyu, Michael R..
+- **Learning in the Wild: Towards Leveraging Unlabeled Data for Effectively Tuning Pre-trained Code Models** (2024), ICSE, Gao, Shuzheng; Mao, Wenxin; Gao, Cuiyun; Li, Li; Hu, Xing; Xia, Xin; Lyu, Michael R.
 - **Learning Performance-Improving Code Edits** (2023), arXiv, Shypula, Alexander; Madaan, Aman; Zeng, Yimeng; Alon, Uri; Gardner, Jacob; Hashemi, Milad; Neubig, Graham; Ranganathan, Parthasarathy; Bastani, Osbert; Yazdanbakhsh, Amir.
 - **Learning to Predict User-Defined Types** (2022), TSE, Jesse, Kevin; Devanbu, Premkumar T.; Sawant, Anand.
 - **Less is More: Summary of Long Instructions is Better for Program Synthesis** (2022), EMNLP, Kuznia, Kirby; Mishra, Swaroop; Parmar, Mihir; Baral, Chitta.
@@ -200,7 +205,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Novel Preprocessing Technique for Data Embedding in Engineering Code Generation Using Large Language Model(Applications of Large Language Models in Data Processing: Innovative Approaches to Segmenting and Renewing Information)** (2023), arXiv, Lin, Yu-Chen; Kumar, Akhilesh; Chang, Norman; Zhang, Wenliang; Zakir, Muhammad; Apte, Rucha; He, Haiyang; Wang, Chao; Jang, Jyh-Shing Roger.
 - **On Contrastive Learning of Semantic Similarity forCode to Code Search** (2023), arXiv, Saieva, Anthony; Chakraborty, Saikat; Kaiser, Gail.
 - **On the Effectiveness of Large Language Models in Domain-Specific Code Generation** (2023), TOSEM, Chen, Meng; Zhang, Hongyu; Wan, Chengcheng; Wei, Zhao; Xu, Yong; Wang, Juhong; Gu, Xiaodong.
-- **On the effectiveness of transfer learning for code search** (2022), TSE, Salza, Pasquale; Schwizer, Christoph; Gu, Jian; Gall, Harald C..
+- **On the effectiveness of transfer learning for code search** (2022), TSE, Salza, Pasquale; Schwizer, Christoph; Gu, Jian; Gall, Harald C.
 - **On the Reliability and Explainability of Language Models for Program Generation** (2024), TOSEM, Liu, Yue; Tantithamthavorn, Chakkrit; Liu, Yonghui; Li, Li.
 - **On the Robustness of Code Generation Techniques: An Empirical Study on GitHub Copilot** (2023), ICSE, Mastropaolo, Antonio; Pascarella, Luca; Guglielmi, Emanuela; Ciniselli, Matteo; Scalabrino, Simone; Oliveto, Rocco; Bavota, Gabriele.
 - **On the transferability of pre-trained language models for low-resource programming languages** (2022), ICPC, Chen, Fuxiang; Fard, Fatemeh H.; Lo, David; Bryksin, Timofey.
@@ -232,7 +237,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **SoTaNa: The Open-Source Software Development Assistant** (2023), arXiv, Shi, Ensheng; Zhang, Fengji; Wang, Yanlin; Chen, Bei; Du, Lun; Zhang, Hongyu; Han, Shi; Zhang, Dongmei; Sun, Hongbin.
 - **SparseCoder: Identifier-Aware Sparse Transformer for File-Level Code Summarization** (2024), SANER, Wang, Yanlin; Huang, Yanxian; Guo, Daya; Zhang, Hongyu; Zheng, Zibin.
 - **Spt-code: Sequence-to-sequence pre-training for learning source code representations** (2022), ICSE, Niu, Changan; Li, Chuanyi; Ng, Vincent; Ge, Jidong; Huang, Liguo; Luo, Bin.
-- **Stack Over-Flowing with Results: The Case for Domain-Specific Pre-Training Over One-Size-Fits-All Models** (2023), arXiv, Mukherjee, Manisha; Hellendoorn, Vincent J..
+- **Stack Over-Flowing with Results: The Case for Domain-Specific Pre-Training Over One-Size-Fits-All Models** (2023), arXiv, Mukherjee, Manisha; Hellendoorn, Vincent J.
 - **SteloCoder: a Decoder-Only LLM for Multi-Language to Python Code Translation** (2023), arXiv, Pan, Jialing; Sadé, Adrien; Kim, Jin; Soriano, Eric; Sole, Guillem; Flamant, Sylvain.
 - **Structured Chain-of-Thought Prompting for Code Generation** (2023), arXiv, Li, Jia; Li, Ge; Li, Yongmin; Jin, Zhi.
 - **Structured Code Representations Enable Data-Efficient Adaptation of Code Language Models** (2024), arXiv, Agarwal, Mayank; Shen, Yikang; Wang, Bailin; Kim, Yoon; Chen, Jie.
@@ -245,12 +250,12 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **The FormAI Dataset: Generative AI in Software Security Through the Lens of Formal Verification** (2023), arXiv, Tihanyi, Norbert; Bisztray, Tamas; Jain, Ridhi; Ferrag, Mohamed Amine; Cordeiro, Lucas C.; Mavroeidis, Vasileios.
 - **The potential of LLMs for coding with low-resource and domain-specific programming languages** (2023), arXiv, Artur Tarassow.
 - **The Scope of ChatGPT in Software Engineering: A Thorough Investigation** (2023), arXiv, Ma, Wei; Liu, Shangqing; Wang, Wenhan; Hu, Qiang; Liu, Ye; Zhang, Cen; Nie, Liming; Liu, Yang.
-- **The Vault: A Comprehensive Multilingual Dataset for Advancing Code Understanding and Generation** (2023), arXiv, Manh, Dung Nguyen; Hai, Nam Le; Dau, Anh T. V.; Nguyen, Anh Minh; Nghiem, Khanh; Guo, Jin; Bui, Nghi D. Q..
+- **The Vault: A Comprehensive Multilingual Dataset for Advancing Code Understanding and Generation** (2023), arXiv, Manh, Dung Nguyen; Hai, Nam Le; Dau, Anh T. V.; Nguyen, Anh Minh; Nghiem, Khanh; Guo, Jin; Bui, Nghi D. Q.
 - **Think Outside the Code: Brainstorming Boosts Large Language Models in Code Generation** (2023), arXiv, Li, Xin-Ye; Xue, Jiang-Tian; Xie, Zheng; Li, Ming.
 - **ToolCoder: Teach Code Generation Models to use API search tools** (2023), arXiv, Zhang, Kechi; Zhang, Huangzhao; Li, Ge; Li, Jia; Li, Zhuo; Jin, Zhi.
 - **Toward less hidden cost of code completion with acceptance and ranking models** (2021), ICSME, Li, Jingxuan; Huang, Rui; Li, Wei; Yao, Kai; Tan, Weiguo.
 - **Towards Efficient Fine-tuning of Pre-trained Code Models: An Experimental Study and Beyond** (2023), ISSTA, Shi, Ensheng; Wang, Yanlin; Zhang, Hongyu; Du, Lun; Han, Shi; Zhang, Dongmei; Sun, Hongbin.
-- **Towards Generating Functionally Correct Code Edits from Natural Language Issue Descriptions** (2023), arXiv, Fakhoury, Sarah; Chakraborty, Saikat; Musuvathi, Madan; Lahiri, Shuvendu K..
+- **Towards Generating Functionally Correct Code Edits from Natural Language Issue Descriptions** (2023), arXiv, Fakhoury, Sarah; Chakraborty, Saikat; Musuvathi, Madan; Lahiri, Shuvendu K.
 - **Understanding Large Language Model Based Fuzz Driver Generation** (2023), arXiv, Zhang, Cen; Bai, Mingqiang; Zheng, Yaowen; Li, Yeting; Xie, Xiaofei; Li, Yuekang; Ma, Wei; Sun, Limin; Liu, Yang.
 - **Understanding Programs by Exploiting (Fuzzing) Test Cases** (2023), arXiv, Zhao, Jianyu; Rong, Yuyang; Guo, Yiwen; He, Yifeng; Chen, Hao.
 - **Understanding the effectiveness of large language models in code translation** (2023), ICSE, Pan, Rangeet; Ibrahimzada, Ali Reza; Krishna, Rahul; Sankar, Divya; Wassi, Lambert Pouguem; Merler, Michele; Sobolev, Boris; Pavuluri, Raju; Sinha, Saurabh; Jabbarvand, Reyhaneh.
@@ -267,13 +272,13 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **ZS4C: Zero-Shot Synthesis of Compilable Code for Incomplete Code Snippets using ChatGPT** (2024), arXiv, Kabir, Azmain; Wang, Shaowei; Tian, Yuan; Tse-Hsun; Chen; Asaduzzaman, Muhammad; Zhang, Wenbin.
 
 ### *Software quality assurance*
-- **A New Era in Software Security: Towards Self-Healing Software via Large Language Models and Formal Verification** (2023), arXiv, Charalambous, Yiannis; Tihanyi, Norbert; Jain, Ridhi; Sun, Youcheng; Ferrag, Mohamed Amine; Cordeiro, Lucas C..
+- **A New Era in Software Security: Towards Self-Healing Software via Large Language Models and Formal Verification** (2023), arXiv, Charalambous, Yiannis; Tihanyi, Norbert; Jain, Ridhi; Sun, Youcheng; Ferrag, Mohamed Amine; Cordeiro, Lucas C.
 - **A Preliminary Evaluation of LLM-Based Fault Localization** (2023), arXiv, Kang, Sungmin; An, Gabin; Yoo, Shin.
 - **Adaptive test generation using a large language model** (2023), arXiv, Schäfer, Max; Nadi, Sarah; Eghbali, Aryaz; Tip, Frank.
 - **Algo: Synthesizing algorithmic programs with generated oracle verifiers** (2023), NeurIPS, Zhang, Kexun; Wang, Danqing; Xia, Jingtao; Wang, William Yang; Li, Lei.
 - **An Empirical Evaluation of Using Large Language Models for Automated Unit Test Generation** (2023), TSE, Schäfer M, Nadi S, Eghbali A, et al.
 - **Augmenting Greybox Fuzzing with Generative AI** (2023), arXiv, Hu, Jie; Zhang, Qian; Yin, Heng.
-- **Automatic Generation of Test Cases based on Bug Reports: a Feasibility Study with Large Language Models** (2023), arXiv, Plein, Laura; Ouédraogo, Wendkûuni C.; Klein, Jacques; Bissyandé, Tegawendé F..
+- **Automatic Generation of Test Cases based on Bug Reports: a Feasibility Study with Large Language Models** (2023), arXiv, Plein, Laura; Ouédraogo, Wendkûuni C.; Klein, Jacques; Bissyandé, Tegawendé F.
 - **Autonomous Large Language Model Agents Enabling Intent-Driven Mobile GUI Testing** (2023), arXiv, Yoon, Juyeon; Feldt, Robert; Yoo, Shin.
 - **Baldur: Whole-Proof Generation and Repair with Large Language Models** (2023), ESEC/FSE, First, Emily; Rabe, Markus N.; Ringer, Talia; Brun, Yuriy.
 - **Can large language models find and fix vulnerable software?** (2023), arXiv, Noever, David.
@@ -291,7 +296,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **diversevul: a new vulnerable source code dataset for deep learning based vulnerability detection** (2023), arXiv, Chen, Yizheng; Ding, Zhoujie; Chen, Xinyun; Wagner, David.
 - **Domain Adaptation for Deep Unit Test Case Generation** (2023), arXiv, Shin, Jiho; Hashtroudi, Sepehr; Hemmati, Hadi; Wang, Song.
 - **E&V: Prompting Large Language Models to Perform Static Analysis by Pseudo-code Execution and Verification** (2023), arXiv, Hao, Yu; Chen, Weiteng; Zhou, Ziqiao; Cui, Weidong.
-- **Effective Test Generation Using Pre-trained Large Language Models and Mutation Testing** (2023), arXiv, Dakhel, Arghavan Moradi; Nikanjam, Amin; Majdinasab, Vahid; Khomh, Foutse; Desmarais, Michel C..
+- **Effective Test Generation Using Pre-trained Large Language Models and Mutation Testing** (2023), arXiv, Dakhel, Arghavan Moradi; Nikanjam, Amin; Majdinasab, Vahid; Khomh, Foutse; Desmarais, Michel C.
 - **Efficient Mutation Testing via Pre-Trained Language Models** (2023), arXiv, Khanfir, Ahmed; Degiovanni, Renzo; Papadakis, Mike; Traon, Yves Le.
 - **exploring the effectiveness of large language models in generating unit tests** (2023), arXiv, Siddiq, Mohammed Latif; Santos, Joanna C. S.; Tanvir, Ridwanul Hasan; Ulfat, Noshin; Rifat, Fahmid Al; Lopes, Vinicius Carvalho.
 - **Fast changeset-based bug localization with BERT** (2022), ICSE, Ciborowska, Agnieszka; Damevski, Kostadin.
@@ -303,9 +308,9 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **How Far Have We Gone in Vulnerability Detection Using Large Language Models** (2023), arXiv, Gao, Zeyu; Wang, Hao; Zhou, Yuchen; Zhu, Wenyu; Zhang, Chao.
 - **Large language models are edge-case fuzzers: Testing deep learning libraries via fuzzgpt** (2023), arXiv, Deng, Yinlin; Xia, Chunqiu Steven; Yang, Chenyuan; Zhang, Shizhuo Dylan; Yang, Shujing; Zhang, Lingming.
 - **Large Language Models are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models** (2023), ISSTA, Deng, Yinlin; Xia, Chunqiu Steven; Peng, Haoran; Yang, Chenyuan; Zhang, Lingming.
-- **Large Language Models for Test-Free Fault Localization** (2024), arXiv, Yang, Aidan Z. H.; Martins, Ruben; Goues, Claire Le; Hellendoorn, Vincent J..
+- **Large Language Models for Test-Free Fault Localization** (2024), arXiv, Yang, Aidan Z. H.; Martins, Ruben; Goues, Claire Le; Hellendoorn, Vincent J.
 - **Large Language Models in Fault Localisation** (2023), arXiv, Wu, Yonghao; Li, Zheng; Zhang, Jie M.; Papadakis, Mike; Harman, Mark; Liu, Yong.
-- **Learning in the Wild: Towards Leveraging Unlabeled Data for Effectively Tuning Pre-trained Code Models** (2024), ICSE, Gao, Shuzheng; Mao, Wenxin; Gao, Cuiyun; Li, Li; Hu, Xing; Xia, Xin; Lyu, Michael R..
+- **Learning in the Wild: Towards Leveraging Unlabeled Data for Effectively Tuning Pre-trained Code Models** (2024), ICSE, Gao, Shuzheng; Mao, Wenxin; Gao, Cuiyun; Li, Li; Hu, Xing; Xia, Xin; Lyu, Michael R.
 - **LEVER: Learning to Verify Language-to-Code Generation with Execution** (2023), ICML, Ni, Ansong; Iyer, Srini; Radev, Dragomir; Stoyanov, Ves; Yih, Wen-tau; Wang, Sida I; Lin, Xi Victoria.
 - **LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning** (2024), arXiv, Sun, Yuqiang; Wu, Daoyuan; Xue, Yue; Liu, Han; Ma, Wei; Zhang, Lyuye; Shi, Miaolei; Liu, Yang.
 - **LLM-based Resource-Oriented Intention Inference for Static Resource Leak Detection(Boosting Static Resource Leak Detection via LLM-based Resource-Oriented Intention Inference)** (2023), arXiv, Wang, Chong; Liu, Jianan; Peng, Xin; Liu, Yang; Lou, Yiling.
@@ -336,11 +341,11 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **A Chain of AI-based Solutions for Resolving FQNs and Fixing Syntax Errors in Partial Code** (2023), arXiv, Huang, Qing; Zhu, Jiahui; Xing, Zhenchang; Jin, Huan; Wang, Changjing; Xu, Xiwei.
 - **A Light Bug Triage Framework for Applying Large Pre-trained Language Model** (2022), ASE, Lee, Jaehyung; Han, Kisun; Yu, Hwanjo.
 - **A Multi-Step Learning Approach to Assist Code Review** (2023), SANER, Sghaier, Oussama Ben; Sahraoui, Houari.
-- **A New Era in Software Security: Towards Self-Healing Software via Large Language Models and Formal Verification** (2023), arXiv, Charalambous, Yiannis; Tihanyi, Norbert; Jain, Ridhi; Sun, Youcheng; Ferrag, Mohamed Amine; Cordeiro, Lucas C..
+- **A New Era in Software Security: Towards Self-Healing Software via Large Language Models and Formal Verification** (2023), arXiv, Charalambous, Yiannis; Tihanyi, Norbert; Jain, Ridhi; Sun, Youcheng; Ferrag, Mohamed Amine; Cordeiro, Lucas C.
 - **A Novel Approach for Automatic Program Repair using Round-Trip Translation with Large Language Models** (2024), arXiv, Ruiz, Fernando Vallecillos; Grishina, Anastasiia; Hort, Max; Moonen, Leon.
-- **A prompt pattern catalog to enhance prompt engineering with chatgpt** (2023), arXiv, White, Jules; Fu, Quchen; Hays, Sam; Sandborn, Michael; Olea, Carlos; Gilbert, Henry; Elnashar, Ashraf; Spencer-Smith, Jesse; Schmidt, Douglas C..
+- **A prompt pattern catalog to enhance prompt engineering with chatgpt** (2023), arXiv, White, Jules; Fu, Quchen; Hays, Sam; Sandborn, Michael; Olea, Carlos; Gilbert, Henry; Elnashar, Ashraf; Spencer-Smith, Jesse; Schmidt, Douglas C.
 - **A study on prompt design, advantages and limitations of chatgpt for deep learning program repair** (2023), arXiv, Cao, Jialun; Li, Meiziniu; Wen, Ming; Cheung, Shing-chi.
-- **Achieving reliable sentiment analysis in the software engineering domain using bert** (2020), ICSME, Biswas, Eeshita; Karabulut, Mehmet Efruz; Pollock, Lori; Vijay-Shanker, K..
+- **Achieving reliable sentiment analysis in the software engineering domain using bert** (2020), ICSME, Biswas, Eeshita; Karabulut, Mehmet Efruz; Pollock, Lori; Vijay-Shanker, K.
 - **Addressing Compiler Errors: Stack Overflow or Large Language Models?** (2023), arXiv, Widjojo, Patricia; Treude, Christoph.
 - **an analysis of the automatic bug fixing performance of chatgpt** (2023), arXiv, Sobania, Dominik; Briesch, Martin; Hanna, Carol; Petke, Justyna.
 - **An empirical study of ChatGPT-3.5 on question answering and code maintenance** (2023), arXiv, Kabir, Md Mahir Asef; Hassan, Sk Adnan; Wang, Xiaoyin; Wang, Ying; Yu, Hai; Meng, Na.
@@ -359,7 +364,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **CIRCLE: Continual repair across programming languages** (2022), ISSTA, Yuan, Wei; Zhang, Quanjun; He, Tieke; Fang, Chunrong; Hung, Nguyen Quoc Viet; Hao, Xiaodong; Yin, Hongzhi.
 - **Code Security Vulnerability Repair Using Reinforcement Learning with Large Language Models** (2024), arXiv, Islam, Nafis Tanveer; Karkevandi, Mohammad Bahrami; Najafirad, Peyman.
 - **Coditt5: Pretraining for source code and natural language editing** (2022), ASE, Zhang, Jiyang; Panthaplackel, Sheena; Nie, Pengyu; Li, Junyi Jessy; Gligoric, Milos.
-- **Constructing Effective In-Context Demonstration for Code Intelligence Tasks: An Empirical Stud** (2023), arXiv, Gao, Shuzheng; Wen, Xin-Cheng; Gao, Cuiyun; Wang, Wenxuan; Lyu, Michael R..
+- **Constructing Effective In-Context Demonstration for Code Intelligence Tasks: An Empirical Stud** (2023), arXiv, Gao, Shuzheng; Wen, Xin-Cheng; Gao, Cuiyun; Wang, Wenxuan; Lyu, Michael R.
 - **ContraBERT: Enhancing Code Pre-Trained Models via Contrastive Learning** (2023), ICSE, Liu, Shangqing; Wu, Bozhi; Xie, Xiaofei; Meng, Guozhu; Liu, Yang.
 - **Conversational automated program repair** (2023), arXiv, Xia, Chunqiu Steven; Zhang, Lingming.
 - **Copiloting the Copilots: Fusing Large Language Models with Completion Engines for Automated Program Repair** (2023), ESEC/FSE, Wei, Yuxiang; Xia, Chunqiu Steven; Zhang, Lingming.
@@ -368,22 +373,22 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **DebugBench: Evaluating Debugging Capability of Large Language Models** (2024), arXiv, Tian, Runchu; Ye, Yining; Qin, Yujia; Cong, Xin; Lin, Yankai; Pan, Yinxu; Wu, Yesai; Liu, Zhiyuan; Sun, Maosong.
 - **Domain Knowledge Matters: Improving Prompts with Fix Templates for Repairing Python Type Errors** (2024), ICSE, Peng, Yun; Gao, Shuzheng; Gao, Cuiyun; Huo, Yintong; Lyu, Michael.
 - **Duplicate bug report detection by using sentence embedding and fine-tuning** (2021), ICSME, Isotani, Haruna; Washizaki, Hironori; Fukazawa, Yoshiaki; Nomoto, Tsutomu; Ouji, Saori; Saito, Shinobu.
-- **Enhancing Automated Program Repair through Fine-tuning and Prompt Engineering** (2023), arXiv, Paul, Rishov; Hossain, Md Mohib; Siddiq, Mohammed Latif; Hasan, Masum; Iqbal, Anindya; Santos, Joanna C. S..
+- **Enhancing Automated Program Repair through Fine-tuning and Prompt Engineering** (2023), arXiv, Paul, Rishov; Hossain, Md Mohib; Siddiq, Mohammed Latif; Hasan, Masum; Iqbal, Anindya; Santos, Joanna C. S.
 - **Enhancing Traceability Link Recovery with Unlabeled Data** (2022), ISSRE, Zhu, Jianfei; Xiao, Guanping; Zheng, Zheng; Sui, Yulei.
 - **Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction** (2023), arXiv, Kang, Sungmin; Yoon, Juyeon; Askarbekkyzy, Nargiz; Yoo, Shin.
 - **Evaluating Pre-trained Language Models for Repairing API Misuses** (2023), TOSEM, Zhang, Ting; Irsan, Ivana Clairine; Thung, Ferdian; Lo, David; Sharma, Asankhaya; Jiang, Lingxiao.
-- **Evaluating representation learning of code changes for predicting patch correctness in program repair** (2020), ASE, Tian, Haoye; Liu, Kui; Kaboré, Abdoul Kader; Koyuncu, Anil; Li, Li; Klein, Jacques; Bissyandé, Tegawendé F..
+- **Evaluating representation learning of code changes for predicting patch correctness in program repair** (2020), ASE, Tian, Haoye; Liu, Kui; Kaboré, Abdoul Kader; Koyuncu, Anil; Li, Li; Klein, Jacques; Bissyandé, Tegawendé F.
 - **Examining zero-shot vulnerability repair with large language models** (2021), S&P, Pearce, Hammond; Tan, Benjamin; Ahmad, Baleegh; Karri, Ramesh; Dolan-Gavitt, Brendan.
 - **Explainable Automated Debugging via Large Language Model-driven Scientific Debugging** (2023), arXiv, Kang, Sungmin; Chen, Bei; Yoo, Shin; Lou, Jian-Guang.
 - **Explaining Explanation: An Empirical Study on Explanation in Code Reviews** (2023), arXiv, Widyasari, Ratnadira; Zhang, Ting; Bouraffa, Abir; Lo, David.
-- **Exploring the Effectiveness of LLMs in Automated Logging Generation: An Empirical Study** (2023), arXiv, Li, Yichen; Huo, Yintong; Jiang, Zhihan; Zhong, Renyi; He, Pinjia; Su, Yuxin; Lyu, Michael R..
+- **Exploring the Effectiveness of LLMs in Automated Logging Generation: An Empirical Study** (2023), arXiv, Li, Yichen; Huo, Yintong; Jiang, Zhihan; Zhong, Renyi; He, Pinjia; Su, Yuxin; Lyu, Michael R.
 - **Exploring the Potential of ChatGPT in Automated Code Refinement: An Empirical Study** (2024), ICSE, Guo, Qi; Cao, Junming; Xie, Xiaofei; Liu, Shangqing; Li, Xiaohong; Chen, Bihuan; Peng, Xin.
 - **Extending the Frontier of ChatGPT: Code Generation and Debugging** (2023), arXiv, Sakib, Fardin Ahsan; Khan, Saadat Hasan; Karim, A. H. M. Rezaul.
 - **Few-shot learning for sentence pair classification and its applications in software engineering** (2023), arXiv, Helmeczi, Robert Kraig; Cevik, Mucahit; Yıldırım, Savas.
 - **Fixing Rust Compilation Errors using LLMs** (2023), arXiv, Deligiannis, Pantazis; Lal, Akash; Mehrotra, Nikita; Rastogi, Aseem.
 - **Frustrated with Code Quality Issues? LLMs can Help!** (2023), arXiv, Wadhwa, Nalin; Pradhan, Jui; Sonwane, Atharv; Sahu, Surya Prakash; Natarajan, Nagarajan; Kanade, Aditya; Parthasarathy, Suresh; Rajamani, Sriram.
 - **GAMMA: Revisiting Template-based Automated Program Repair via Mask Prediction** (2023), ASE, Zhang, Quanjun; Fang, Chunrong; Zhang, Tongke; Yu, Bowen; Sun, Weisong; Chen, Zhenyu.
-- **GPTCloneBench: A comprehensive benchmark of semantic clones and cross-language clones using GPT-3 model and SemanticCloneBench** (2023), ICSME, Alam, Ajmain I.; Roy, Palash R.; Al-Omari, Farouq; Roy, Chanchal K.; Roy, Banani; Schneider, Kevin A..
+- **GPTCloneBench: A comprehensive benchmark of semantic clones and cross-language clones using GPT-3 model and SemanticCloneBench** (2023), ICSME, Alam, Ajmain I.; Roy, Palash R.; Al-Omari, Farouq; Roy, Chanchal K.; Roy, Banani; Schneider, Kevin A.
 - **Guiding ChatGPT to Fix Web UI Tests via Explanation-Consistency Checking** (2023), arXiv, Xu, Zhuolin; Li, Qiushi; Tan, Shin Hwei.
 - **How Effective Are Neural Networks for Fixing Security Vulnerabilities** (2023), ISSTA, Wu, Yi; Jiang, Nan; Pham, Hung Viet; Lutellier, Thibaud; Davis, Jordan; Tan, Lin; Babkin, Petr; Shah, Sameena.
 - **Impact of Code Language Models on Automated Program Repair** (2023), ICSE, Jiang, Nan; Liu, Kevin; Lutellier, Thibaud; Tan, Lin.
@@ -391,7 +396,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **InferFix: End-to-End Program Repair with LLMs Retrieval-Augmented Prompts** (2023), arXiv, Jin, Matthew; Shahriar, Syed; Tufano, Michele; Shi, Xin; Lu, Shuai; Sundaresan, Neel; Svyatkovskiy, Alexey.
 - **Interpretable Online Log Analysis Using Large Language Models with Prompt Strategies** (2024), ICPC, Liu, Yilun; Tao, Shimin; Meng, Weibin; Wang, Jingyu; Ma, Wenbing; Zhao, Yanqing; Chen, Yuhang; Yang, Hao; Jiang, Yanfei; Chen, Xun.
 - **Invalidator: Automated patch correctness assessment via semantic and syntactic reasoning** (2023), TSE, Le-Cong, Thanh; Luong, Duc-Minh; Le, Xuan Bach D.; Lo, David; Tran, Nhat-Hoa; Quang-Huy, Bui; Huynh, Quyet-Thang.
-- **Is ChatGPT the Ultimate Programming Assistant -- How far is it?** (2023), arXiv, Tian, Haoye; Lu, Weiqi; Li, Tsz On; Tang, Xunzhu; Cheung, Shing-Chi; Klein, Jacques; Bissyandé, Tegawendé F..
+- **Is ChatGPT the Ultimate Programming Assistant -- How far is it?** (2023), arXiv, Tian, Haoye; Lu, Weiqi; Li, Tsz On; Tang, Xunzhu; Cheung, Shing-Chi; Klein, Jacques; Bissyandé, Tegawendé F.
 - **Just-in-Time Security Patch Detection -- LLM At the Rescue for Data Augmentation** (2023), arXiv, Tang, Xunzhu; Chen, Zhenghan; Kim, Kisub; Tian, Haoye; Ezzini, Saad; Klein, Jacques.
 - **Keep the conversation going: fixing 162 out of 337 bugs for $0.42 each using chatgpt** (2023), arXiv, Xia, Chunqiu Steven; Zhang, Lingming.
 - **KnowLog: Knowledge Enhanced Pre-trained Language Model for Log Understanding** (2024), ICSE, Ma, Lipeng; Yang, Weidong; Xu, Bo; Jiang, Sihang; Fei, Ben; Liang, Jiaqing; Zhou, Mingjie; Xiao, Yanghua.
@@ -417,7 +422,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Shipwright: A Human-in-the-Loop System for Dockerfile Repair** (2021), ICSE, Henkel J,Silva D,Teixeira L,d'Amorim M,Reps T.
 - **STEAM: Simulating the InTeractive BEhavior of ProgrAMmers for Automatic Bug Fixing** (2023), arXiv, Zhang, Yuwei; Jin, Zhi; Xing, Ying; Li, Ge.
 - **T-FREX: A Transformer-based Feature Extraction Method from Mobile App Reviews** (2024), SANER, Motger, Quim; Miaschi, Alessio; Dell'Orletta, Felice; Franch, Xavier; Marco, Jordi.
-- **The Best of Both Worlds: Combining Learned Embeddings with Engineered Features for Accurate Prediction of Correct Patches** (2023), TOSEM, Tian, Haoye; Liu, Kui; Li, Yinghua; Kaboré, Abdoul Kader; Koyuncu, Anil; Habib, Andrew; Li, Li; Wen, Junhao; Klein, Jacques; Bissyandé, Tegawendé F..
+- **The Best of Both Worlds: Combining Learned Embeddings with Engineered Features for Accurate Prediction of Correct Patches** (2023), TOSEM, Tian, Haoye; Liu, Kui; Li, Yinghua; Kaboré, Abdoul Kader; Koyuncu, Anil; Habib, Andrew; Li, Li; Wen, Junhao; Klein, Jacques; Bissyandé, Tegawendé F.
 - **The Right Prompts for the Job: Repair Code-Review Defects with Large Language Model** (2023), arXiv, Zhao, Zelin; Xu, Zhaogui; Zhu, Jialong; Di, Peng; Yao, Yuan; Ma, Xiaoxing.
 - **Towards Automatically Addressing Self-Admitted Technical Debt: How Far Are We?** (2023), arXiv, Mastropaolo, Antonio; Di Penta, Massimiliano; Bavota, Gabriele.
 - **Towards Efficient Fine-tuning of Pre-trained Code Models: An Experimental Study and Beyond** (2023), ISSTA, Shi, Ensheng; Wang, Yanlin; Zhang, Hongyu; Du, Lun; Han, Shi; Zhang, Dongmei; Sun, Hongbin.
@@ -426,7 +431,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **UniLog: Automatic Logging via LLM and In-Context Learning** (2024), ICSE, Xu, Junjielong; Cui, Ziang; Zhao, Yuan; Zhang, Xu; He, Shilin; He, Pinjia; Li, Liqun; Kang, Yu; Lin, Qingwei; Dang, Yingnong; Rajmohan, Saravan; Zhang, Dongmei.
 - **Using a Nearest-Neighbour, BERT-Based Approach for Scalable Clone Detection** (2022), ICSME, Chochlov, Muslim; Ahmed, Gul Aftab; Patten, James Vincent; Lu, Guoxian; Hou, Wei; Gregg, David; Buckley, Jim.
 - **Using deep learning to generate complete log statements** (2022), ICSE, Mastropaolo, Antonio; Pascarella, Luca; Bavota, Gabriele.
-- **Using pre-trained language models to resolve textual and semantic merge conflicts (experience paper)** (2022), ISSTA, Zhang, Jialu; Mytkowicz, Todd; Kaufman, Mike; Piskac, Ruzica; Lahiri, Shuvendu K..
+- **Using pre-trained language models to resolve textual and semantic merge conflicts (experience paper)** (2022), ISSTA, Zhang, Jialu; Mytkowicz, Todd; Kaufman, Mike; Piskac, Ruzica; Lahiri, Shuvendu K.
 - **using pre-trained models to boost code review automation** (2022), ICSE, Tufano, Rosalia; Masiero, Simone; Mastropaolo, Antonio; Pascarella, Luca; Poshyvanyk, Denys; Bavota, Gabriele.
 - **Using Transfer Learning for Code-Related Tasks** (2022), TSE, Mastropaolo, Antonio; Cooper, Nathan; Palacio, David Nader; Scalabrino, Simone; Poshyvanyk, Denys; Oliveto, Rocco; Bavota, Gabriele.
 - **Utilization of Pre-trained Language Model for Adapter-based Knowledge Transfer in Software Engineering** (2023), arXiv, Iman Saberi, Fatemeh Fard, Fuxiang Chen.
