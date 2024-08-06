@@ -1,0 +1,16 @@
+LLM
+Large Language Model
+Large Language Models
+PLM
+Pre-trained language model
+Pre-trained language models
+Pre-training language model
+BERT
+CODEX
+T5
+ChatGPT
+GPT
+GPT-3
+GPT-2
+GPT-1
+GPT-4

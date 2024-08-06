@@ -1,0 +1,48 @@
+Prompt engieering
+Few-shot Prompting（少样本提示）
+Chain-of-Thought (CoT) Prompting（链式思考提示）
+Automatic Chain-of-Thought (Auto-CoT) Prompting（自动链式思考提示）
+Self-Consistency（自我一致性）
+Logical Chain-of-Thought (LogiCoT) Prompting（逻辑链式思考提示）
+Chain-of-Symbol (CoS) Prompting（符号链提示）
+Tree-of-Thoughts (ToT) Prompting（思维树提示）
+Graph-of-Thought (GoT) Prompting（思维图提示）
+System 2 Attention Prompting（系统2注意力提示）
+Thread of Thought (ThoT) Prompting（思维线索提示）
+Chain of Table Prompting（表格链提示）
+Retrieval Augmented Generation (RAG)（检索增强生成）
+ReAct Prompting（反应提示）
+Chain-of-Verification (CoVe) Prompting（验证链提示）
+Chain-of-Note (CoN) Prompting（笔记链提示）
+Chain-of-Knowledge (CoK) Prompting（知识链提示）
+Active-Prompt（主动提示）
+Automatic Prompt Engineer (APE)（自动提示工程师）
+Automatic Reasoning and Tool-use (ART)（自动推理与工具使用）
+Contrastive Chain-of-Thought (CCoT) Prompting（对比链式思考提示）
+Emotion Prompting（情感提示）
+Scratchpad Prompting（草稿纸提示）
+Program of Thoughts (PoT) Prompting（思维程序提示）
+Structured Chain-of-Thought (SCoT) Prompting（结构化链式思考提示）
+Chain of Code (CoC) Prompting（代码链提示）
+Optimization by Prompting (OPRO)（通过提示优化）
+Rephrase and Respond (RaR) Prompting（重述并回应提示）
+Take a Step Back Prompting（退一步提示）
+Fine-tuning
+Instruction Tuning
+Alignment Tuning
+Parameter-Efficient fine-tuning（PEFT)
+Reinforcement Learning from Human Feedback (RLHF）
+Low-Rank Adaptation (LoRA)
+Adapter Tuning
+Prefix Tuning
+Prompt Tuning
+Quantized Low-Rank Adaptation (QLoRA)
+Prompt-based Tuning (P-Tuning)
+P-Tuning v2
+Supervised Fine Tuning (SFT)
+Einforcement Learning with AI Feedback (RLAIF)
+Full Fine-Tuning
+Knowledge Distillation
+Parameter Sharing
+Reinforcement Learnin
+Quantization

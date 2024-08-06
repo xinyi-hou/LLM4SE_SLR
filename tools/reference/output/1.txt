@@ -1,0 +1,3 @@
+- **Can LLMs Configure Software Tools（Using Language Models for Software Tool Configuration）** (2023), arXiv, Kannan, Jai.
+- **Evaluation of Context-Aware Language Models and Experts for Effort Estimation of Software Maintenance Issues** (2022), ICSME, Alhamed, Mohammed; Storer, Tim.
+- **Fine-SE: Integrating Semantic Features and Expert Features for Software Effort Estimation** (2024), ICSE, Li, Yue; Ren, Zhong; Wang, Zhiqi; Yang, Lanxin; Dong, Liming; Zhong, Chenxing; Zhang, He.

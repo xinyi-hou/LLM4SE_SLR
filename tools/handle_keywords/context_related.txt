@@ -1,0 +1,57 @@
+Software Engineering
+Software Development
+Program
+Programs
+Software testing
+Software maintenance
+SE
+Software Lifecycle
+Software design
+Software modeling
+Software implementation
+Software debugging
+Software evolution
+Software requirements
+Software management
+Code representation
+Code generation
+Code comment generation
+Code search
+Code localization
+Code completion
+Code summarization
+Method name generation
+Bug detection
+Bug localization
+Vulnerability detection
+Testing techniques
+Test case generation
+Program analysis
+Bug classification
+Defect prediction
+Program repair
+Code clone detection
+Bug report
+Software quality evaluation
+SATD detection
+Code smell detection
+Compiled-related
+Code review
+Software classification
+Code classification
+Code change
+Incident detection
+Requirement extraction
+Requirement traceability
+Requirement validation
+Effort cost prediction
+Mining GitHub
+Github mining
+Mining SO
+StackOverflow
+SO mining
+Mining app
+App mining
+Mining tag
+Tag mining
+Developer-based mining
