@@ -446,11 +446,22 @@ Please feel free to send a pull request to add any papers and relevant content t
 ## Cites
 If you find this repository useful, please cite our survey paper:
 ```
-@article{hou2023large,
-  title={Large language models for software engineering: A systematic literature review},
-  author={Hou, Xinyi and Zhao, Yanjie and Liu, Yue and Yang, Zhou and Wang, Kailong and Li, Li and Luo, Xiapu and Lo, David and Grundy, John and Wang, Haoyu},
-  journal={arXiv preprint arXiv:2308.10620},
-  year={2023}
+@article{hou2024large,
+author = {Hou, Xinyi and Zhao, Yanjie and Liu, Yue and Yang, Zhou and Wang, Kailong and Li, Li and Luo, Xiapu and Lo, David and Grundy, John and Wang, Haoyu},
+title = {Large Language Models for Software Engineering: A Systematic Literature Review},
+year = {2024},
+issue_date = {November 2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {33},
+number = {8},
+issn = {1049-331X},
+url = {https://doi.org/10.1145/3695988},
+doi = {10.1145/3695988},
+month = dec,
+articleno = {220},
+numpages = {79},
+keywords = {Software Engineering, Large Language Model, Survey}
 }
 ```
 
